@@ -1,3 +1,5 @@
+##### Tested on nodejs -v 4.4.3
+
 ### Installation:
 ```
 cd [project_folder]
