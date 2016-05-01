@@ -8,6 +8,8 @@ module.exports = function (grunt) {
     'watch'
   ]);
 
+  grunt.registerTask('test', ['eslint', 'karma']);
+
   grunt.registerTask('serve', ['connect']);
 
   grunt.initConfig({

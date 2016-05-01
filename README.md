@@ -19,4 +19,6 @@ Now navigate your browser to http://localhost:3000/src/index.html
 #### Grunt tasks
 ```
 grunt serve // serve static files
+grunt test // eslint + karma
 grunt tdd // eslint + karma + watch
+```
