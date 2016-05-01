@@ -2,7 +2,6 @@
 
 ### Installation:
 ```
-cd [project_folder]
 git clone https://github.com/thohoh/ng-leaflet-test
 cd ng-leaflet-test
 bower i
