@@ -1,0 +1,11 @@
+.leaflet-div-icon {
+  background: none;
+  border: none;
+}
+
+.leaflet-overlay-pane {
+  display: block;
+}
+.leaflet-overlay-pane.hide {
+  display: none;
+}
